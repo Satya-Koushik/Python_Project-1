@@ -13,7 +13,7 @@ This project involves performing Exploratory Data Analysis (EDA) on a customer p
 ### Tools & Technologies Used
 - **Python** – for data analysis  
 - **Pandas** – for data manipulation  
-- **Matplotlib** & **Seaborn** – for data visualization  
+- **Matplotlib** – for data visualization  
 - **Jupyter Notebook** – for writing and executing code interactively  
 - **CSV** – as the data source format  
 
